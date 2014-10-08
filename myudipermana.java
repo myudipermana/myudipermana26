@@ -1,8 +1,7 @@
 
 package id.blits.tugas;
 
-//PROGRAM INI DIBUAT OLEH SINDI OKVANIAR...
-public class SindiOkvaniar {
+public class myudipermana {
 
     
     public static void main(String[] args) {
